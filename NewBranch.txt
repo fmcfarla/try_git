@@ -3,3 +3,5 @@ NewBranch text file.
 I've added this line on NewBranch, but want to commit it on Master.
 
 More changes.
+
+Yet another change.
