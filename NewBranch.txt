@@ -2,4 +2,4 @@ NewBranch text file.
 
 I've added this line on NewBranch, but want to commit it on Master.
 
-Does this work?
+I think it worked!
