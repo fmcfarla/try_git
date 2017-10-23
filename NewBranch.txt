@@ -1,5 +1,3 @@
 NewBranch text file.
 
-I've added this line on NewBranch, but want to commit it on Master.
-
-Let's trigger another build.
+Let's trigger another build on the master branch only.
