@@ -2,4 +2,4 @@ NewBranch text file.
 
 I've added this line on NewBranch, but want to commit it on Master.
 
-Let's trigger a build!
+Let's trigger another build!
