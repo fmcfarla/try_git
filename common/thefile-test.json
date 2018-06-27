@@ -7,7 +7,7 @@
                 "title": "BECAUSE YOU READ",
                 "type": "text",
                 "priority": 2,
-                "locations": [19, 23]
+                "locations": [19, 23],
                 "conditions": {
                     "topicCount": 3,
                     "sessions": 2
