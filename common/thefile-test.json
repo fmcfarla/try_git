@@ -1,4 +1,4 @@
-﻿{
+{
 	"AppUpgrade": {
 		"APP_UPGRADE_CHECK_URL": "https://www.gannett-cdn.com/mobile/ios/usat/forcedUpdateConfig.json"
 	},
