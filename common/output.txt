@@ -1,0 +1,172 @@
+{
+    "modules": [
+        {
+            "analyticsTag": "morestoriesfrom",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "sessions": 2,
+                "topicCount": 3
+            },
+            "enabled": true,
+            "id": "69F9D791-8F9D-4772-AA0A-173173CED942",
+            "locations": [
+                19,
+                23
+            ],
+            "priority": 2,
+            "rowCount": 24,
+            "title": "BECAUSE YOU READ",
+            "type": "text"
+        },
+        {
+            "analyticsTag": "gallery",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "galleries": 10,
+                "sessions": 5
+            },
+            "enabled": true,
+            "id": "F8621757-386F-4E3C-B334-551CA7DA0687",
+            "locations": [
+                19,
+                23
+            ],
+            "priority": 1,
+            "rowCount": 24,
+            "title": "RECOMMENDED GALLERIES",
+            "type": "gallery"
+        },
+        {
+            "analyticsTag": "video",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "sessions": 5,
+                "videos": 10
+            },
+            "enabled": true,
+            "id": "CC9A7119-15C3-4366-9F08-E6E8A7AE09DB",
+            "locations": [
+                19,
+                23
+            ],
+            "priority": 0,
+            "rowCount": 24,
+            "title": "RECOMMENDED VIDEOS",
+            "type": "video"
+        },
+        {
+            "analyticsTag": "elections",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "dateRange": {
+                    "end": "[TIMESTAMP]",
+                    "start": "[TIMESTAMP]"
+                }
+            },
+            "enabled": true,
+            "id": "FF4E7119-15C3-4188-0F08-T7T8A7AE09CV",
+            "locations": [
+                25
+            ],
+            "templateInfo": {
+                "id": 93301160
+            },
+            "type": "oembed"
+        }
+    ],
+    "version": 1.0
+}
+{
+    "modules": [
+        {
+            "analyticsTag": "morestoriesfrom",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "sessions": 2,
+                "topicCount": 3
+            },
+            "enabled": true,
+            "id": "69F9D791-8F9D-4772-AA0A-173173CED942",
+            "locations": [
+                19,
+                23
+            ],
+            "priority": 2,
+            "rowCount": 24,
+            "title": "BECAUSE YOU READ",
+            "type": "text"
+        },
+        {
+            "analyticsTag": "gallery",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "galleries": 10,
+                "sessions": 5
+            },
+            "enabled": true,
+            "id": "F8621757-386F-4E3C-B334-551CA7DA0687",
+            "locations": [
+                19,
+                23
+            ],
+            "priority": 1,
+            "rowCount": 24,
+            "title": "RECOMMENDED GALLERIES",
+            "type": "gallery"
+        },
+        {
+            "analyticsTag": "video",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "sessions": 5,
+                "videos": 10
+            },
+            "enabled": true,
+            "id": "CC9A7119-15C3-4366-9F08-E6E8A7AE09DB",
+            "locations": [
+                19,
+                23
+            ],
+            "priority": 0,
+            "rowCount": 24,
+            "title": "RECOMMENDED VIDEOS",
+            "type": "video"
+        },
+        {
+            "analyticsTag": "elections",
+            "app": {
+                "minVersion": "5.11"
+            },
+            "conditions": {
+                "dateRange": {
+                    "end": "[TIMESTAMP]",
+                    "start": "[TIMESTAMP]"
+                }
+            },
+            "enabled": true,
+            "id": "FF4E7119-15C3-4188-0F08-T7T8A7AE09CV",
+            "locations": [
+                25
+            ],
+            "templateInfo": {
+                "id": 93301160
+            },
+            "type": "oembed"
+        }
+    ],
+    "version": 1.0
+}
