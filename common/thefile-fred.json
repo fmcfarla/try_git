@@ -1,1 +1,129 @@
-{ "name" : "fred"}
+
+{
+    "version": 1.0,
+    "modules": [
+      {
+        "id": "69F9D791-8F9D-4772-AB0A-173173CED941",
+        "description": "The 2018 Midterm Elections Govenor webview card for phones.",
+        "enabled": true,
+        "audience": {
+          "segments": {
+            "devices": ["phone"],
+            "markets": {
+               "list": ["*"],
+               "type": "include"
+            }
+          }
+        },
+        "schedule": {
+          "calendars": [{
+            "dateRange": {
+              "start": "2018-07-04T10:00:00Z",
+              "end": "2018-09-11T23:59:00Z"
+            }
+          }]
+        },
+        "locations": [
+          {
+            "frontTag": "elections_1",
+            "position": "top",
+            "type": "inline"
+          },
+          {
+            "frontTag": "elections_2",
+            "position": "after.asset.3",
+            "type": "inline"
+          }
+        ],
+        "template": {
+          "type": "webview",
+          "attributes": {
+            "assetID": "93301160",
+            "height": 210
+          }
+        }
+      },
+      {
+        "id": "69F9D791-8F9D-4772-AB0A-173173CED942",
+        "description": "The 2018 Midterm Elections Govenor webview card for phones.",
+        "enabled": true,
+        "audience": {
+          "segments": {
+            "devices": ["phone"],
+            "markets": {
+              "list": ["*"],
+              "type": "include"
+            }
+          }
+        },
+        "schedule": {
+          "calendars": [{
+            "dateRange": {
+              "start": "2018-07-04T10:00:00Z",
+              "end": "2018-09-11T23:59:00Z"
+            }
+          }]
+        },
+        "locations": [
+          {
+            "frontTag": "elections_1",
+            "position": "top",
+            "type": "inline"
+          },
+          {
+            "frontTag": "elections_2",
+            "position": "after.asset.3",
+            "type": "inline"
+          }
+        ],
+        "template": {
+          "type": "webview",
+          "attributes": {
+            "assetID": "93301202",
+            "height": 210
+          }
+        }
+      },
+      {
+        "id": "69F9D791-8F9D-4772-AB0A-173173CED943",
+        "description": "The 2018 Midterm Elections Govenor webview card for phones.",
+        "enabled": true,
+        "audience": {
+          "segments": {
+            "devices": ["phone"],
+            "markets": {
+              "list": ["*"],
+              "type": "include"
+            }
+          }
+        },
+        "schedule": {
+          "calendars": [{
+            "dateRange": {
+              "start": "2018-07-04T10:00:00Z",
+              "end": "2018-09-11T23:59:00Z"
+            }
+          }]
+        },
+        "locations": [
+          {
+            "frontTag": "elections_1",
+            "position": "top",
+            "type": "inline"
+          },
+          {
+            "frontTag": "elections_2",
+            "position": "after.asset.3",
+            "type": "inline"
+          }
+        ],
+        "template": {
+          "type": "webview",
+          "attributes": {
+            "assetID": "93301242",
+            "height": 210
+          }
+        }
+      }
+    ]
+  }
