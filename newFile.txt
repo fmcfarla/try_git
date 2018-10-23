@@ -1,0 +1,1 @@
+This is another file with a change, on the master branch only.

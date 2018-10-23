@@ -1,1 +1,3 @@
-NewBranch text file, just testing.
+NewBranch text file.
+
+Let's trigger another build on the master branch only.
